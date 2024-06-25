@@ -6,17 +6,9 @@
     height: 1080px;
     background: #3e94d8;
     background-blend-mode: normal;
-  }
-  
-  #footer {
-    position: absolute;
-    left: 174px;
-    top: 826px;
-    width: 234px;
-    height: 116px;
-  }
-  
-  #info {
+}
+
+#info {
     position: absolute;
     left: 3px;
     top: 0px;
@@ -26,9 +18,9 @@
     font-family: Inter;
     font-size: 48px;
     font-weight: 500;
-  }
+}
   
-  #contact {
+#contact {
     position: absolute;
     left: 0px;
     top: 58px;
@@ -38,9 +30,9 @@
     font-family: Inter;
     font-size: 48px;
     font-weight: 500;
-  }
+}
   
-  #coverart {
+#coverart {
     position: absolute;
     left: 174px;
     top: 628px;
@@ -50,9 +42,9 @@
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
-  }
+}
   
-  #print {
+#print {
     position: absolute;
     left: 174px;
     top: 550px;
@@ -62,9 +54,9 @@
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
-  }
+}
   
-  #merch {
+#merch {
     position: absolute;
     left: 174px;
     top: 472px;
@@ -74,9 +66,9 @@
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
-  }
+}
   
-  #branding {
+#branding {
     position: absolute;
     left: 174px;
     top: 394px;
@@ -86,41 +78,25 @@
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
-  }
+}
   
-  #front {
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    width: 1920px;
-    height: 1080px;
-  }
-  
-  #nmc_logo {
+#nmc_logo {
     position: absolute;
     left: 1840px;
     top: 1009px;
     width: 50px;
     height: 50px;
-  }
+}
   
-  #siteborder {
+#siteborder {
     position: absolute;
     left: 0px;
     top: 0px;
     width: 1920px;
     height: 1080px;
-  }
+}
   
-  #header {
-    position: absolute;
-    left: 174px;
-    top: 138px;
-    width: 1020px;
-    height: 58px;
-  }
-  
-  #design {
+#design {
     position: absolute;
     left: 553px;
     top: 0px;
@@ -130,19 +106,9 @@
     font-family: Inter;
     font-size: 48px;
     font-weight: 500;
-  }
+}
   
-  #oval {
-    position: absolute;
-    left: 520px;
-    top: 17px;
-    width: 25px;
-    height: 25px;
-    background: #ffffff;
-    background-blend-mode: normal;
-  }
-  
-  #mOHAMMEDHA {
+#name {
     position: absolute;
     left: 0px;
     top: 0px;
@@ -152,4 +118,4 @@
     font-family: Inter;
     font-size: 48px;
     font-weight: 500;
-  }
+}
