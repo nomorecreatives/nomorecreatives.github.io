@@ -17,4 +17,13 @@ h1, h2, h3, h4, h5, h6 {
     font-variation-settings : "slnt" 0;
     color: #ffffff;
 }
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+  }
     
