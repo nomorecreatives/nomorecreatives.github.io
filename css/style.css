@@ -1,29 +1,34 @@
-body{
-    background-color: #59ADFF;
+body {
+    background-color: #59adff;
 }
 
 p {
-    font-family : "Inter", sans-serif;
-    font-weight : 400;
-    font-style : normal;
-    font-variation-settings : "slnt" 0;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
     color: #ffffff;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family : "Inter", sans-serif;
-    font-weight : 600;
-    font-style : normal;
-    font-variation-settings : "slnt" 0;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
     color: #ffffff;
 }
 
 .container {
-    font-family : "Inter", sans-serif;
-    font-weight : 600;
-    font-style : normal;
-    font-variation-settings : "slnt" 0;
-    
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+
     height: 100%;
     width: 100%;
     display: flex;
@@ -31,5 +36,20 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
     justify-content: center;
     color: #ffffff;
-  }
-    
+}
+
+a:link {
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    color: #ffffff;
+}
+
+a:hover {
+    color: #dbdbdb;
+}
+
+a:visited {
+    color: #333333;
+}
