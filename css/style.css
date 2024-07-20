@@ -1,5 +1,5 @@
 body {
-    background-color: #59adff;
+    background-color: #2E57A3;
 }
 
 p {
@@ -33,6 +33,7 @@ h6 {
     width: 100%;
     display: flex;
     position: fixed;
+    text-align: center;
     align-items: center;
     justify-content: center;
     color: #ffffff;
@@ -52,4 +53,9 @@ a:hover {
 
 a:visited {
     color: #333333;
+}
+
+img {
+    height: auto;
+    max-width: 80px;
 }
