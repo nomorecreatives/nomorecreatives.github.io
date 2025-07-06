@@ -63,6 +63,10 @@ img {
     color: #959595;
 }
 
+.column {
+  float: left;
+}
+
 .column.side {
   width: 25%;
 }
