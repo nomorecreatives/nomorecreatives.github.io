@@ -2,7 +2,16 @@ body {
     background: #1c1c1c;
 }
 
-p, a {
+p {
+    font-family: 'Liberation Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    color: #959595;
+}
+
+a {
     font-family: 'Liberation Mono';
     font-style: normal;
     font-weight: 400;
