@@ -41,6 +41,7 @@ ul {
 li a {
   display: block;
   text-decoration: none;
+  padding: 2px 4px;
 }
 
 li a:hover {
