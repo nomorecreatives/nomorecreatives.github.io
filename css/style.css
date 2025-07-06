@@ -1,54 +1,36 @@
 body {
-    background-color: #2E57A3;
+    background: #1c1c1c;
 }
 
 p {
-    font-family: "Inter", sans-serif;
-    font-weight: 500;
+    font-family: 'Liberation Mono';
     font-style: normal;
-    font-variation-settings: "slnt" 0;
-    color: #ffffff;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Inter", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    font-variation-settings: "slnt" 0;
-    color: #ffffff;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    color: #959595;
 }
 
 .container {
-    font-family: "Inter", sans-serif;
-    font-weight: 500;
+    font-family: 'Liberation Mono';
     font-style: normal;
-    font-variation-settings: "slnt" 0;
-
-    height: 100%;
-    width: 100%;
-    display: flex;
-    position: fixed;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    color: #ffffff;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    color: #959595;
 }
 
 a:link {
-    font-family: "Inter", sans-serif;
-    font-weight: 300;
+    font-family: 'Liberation Mono';
     font-style: normal;
-    font-variation-settings: "slnt" 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
     color: #ffffff;
 }
 
 a:hover {
-    color: #dbdbdb;
+    color: #000000;
 }
 
 a:visited {
