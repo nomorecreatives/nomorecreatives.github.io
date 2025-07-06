@@ -21,7 +21,6 @@ a {
     font-weight: 400;
     font-size: 12px;
     line-height: 13px;
-    color: #959595;
 }
 
 .container {
@@ -39,15 +38,15 @@ a:link {
     font-weight: 400;
     font-size: 12px;
     line-height: 13px;
-    color: #ffffff;
+    color: #959595;
 }
 
 a:hover {
-    color: #000000;
+    color: #ffffff;
 }
 
 a:visited {
-    color: #333333;
+    color:  #d0d3d4;
 }
 
 img {
