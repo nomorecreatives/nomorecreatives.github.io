@@ -2,7 +2,7 @@ body {
     background: #1c1c1c;
 }
 
-p {
+p, a {
     font-family: 'Liberation Mono';
     font-style: normal;
     font-weight: 400;
